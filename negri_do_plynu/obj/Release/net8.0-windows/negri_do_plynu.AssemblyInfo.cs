@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("negri_do_plynu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+531358e95d2ae64b167ee3c7af51acf2002a1fa5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7fcabf73636955f6aaee00c67ac521673aba98d")]
 [assembly: System.Reflection.AssemblyProductAttribute("negri_do_plynu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("negri_do_plynu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
