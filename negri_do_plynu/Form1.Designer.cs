@@ -35,6 +35,7 @@
             radioButton1 = new RadioButton();
             pictureBox2 = new PictureBox();
             label1 = new Label();
+            monthCalendar1 = new MonthCalendar();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             SuspendLayout();
@@ -103,11 +104,18 @@
             label1.Text = "Přišukaná Monča";
             label1.Click += label1_Click;
             // 
+            // monthCalendar1
+            // 
+            monthCalendar1.Location = new Point(1239, 27);
+            monthCalendar1.Name = "monthCalendar1";
+            monthCalendar1.TabIndex = 6;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(13F, 32F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1924, 1060);
+            Controls.Add(monthCalendar1);
             Controls.Add(label1);
             Controls.Add(pictureBox2);
             Controls.Add(radioButton1);
@@ -131,5 +139,6 @@
         private RadioButton radioButton1;
         private PictureBox pictureBox2;
         private Label label1;
+        private MonthCalendar monthCalendar1;
     }
 }
