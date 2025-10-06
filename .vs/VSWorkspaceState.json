@@ -1,8 +1,14 @@
 {
   "ExpandedNodes": [
+<<<<<<< Updated upstream
     "",
     "\\negri_do_plynu"
   ],
   "SelectedNode": "\\negri_do_plynu\\Form1.cs",
+=======
+    ""
+  ],
+  "SelectedNode": "\\negri_do_plynu.sln",
+>>>>>>> Stashed changes
   "PreviewInSolutionExplorer": false
 }

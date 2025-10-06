@@ -5,6 +5,7 @@
     {
       "AbsoluteMoniker": "D:0:0:{FAA6C5C1-15B7-4F40-B967-44F97DBCAF94}|negri_do_plynu\\negri_do_plynu.csproj|c:\\users\\honzi\\onedrive - spsul\\dokumenty\\github\\kikin\\negri_do_plynu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FAA6C5C1-15B7-4F40-B967-44F97DBCAF94}|negri_do_plynu\\negri_do_plynu.csproj|solutionrelative:negri_do_plynu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+<<<<<<< Updated upstream
     },
     {
       "AbsoluteMoniker": "D:0:0:{FAA6C5C1-15B7-4F40-B967-44F97DBCAF94}|negri_do_plynu\\negri_do_plynu.csproj|c:\\users\\honzi\\onedrive - spsul\\dokumenty\\github\\kikin\\negri_do_plynu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,6 +14,8 @@
     {
       "AbsoluteMoniker": "D:0:0:{FAA6C5C1-15B7-4F40-B967-44F97DBCAF94}|negri_do_plynu\\negri_do_plynu.csproj|c:\\users\\honzi\\onedrive - spsul\\dokumenty\\github\\kikin\\negri_do_plynu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FAA6C5C1-15B7-4F40-B967-44F97DBCAF94}|negri_do_plynu\\negri_do_plynu.csproj|solutionrelative:negri_do_plynu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+>>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +25,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< Updated upstream
           "SelectedChildIndex": 12,
+=======
+          "SelectedChildIndex": 10,
+>>>>>>> Stashed changes
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,6 +73,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\honzi\\OneDrive - SPSUL\\Dokumenty\\GitHub\\kikin\\negri_do_plynu\\Form1.cs",
@@ -91,6 +99,8 @@
             },
             {
               "$type": "Document",
+=======
+>>>>>>> Stashed changes
               "DocumentIndex": 0,
               "Title": "Form1.cs [N\u00E1vrh]",
               "DocumentMoniker": "C:\\Users\\honzi\\OneDrive - SPSUL\\Dokumenty\\GitHub\\kikin\\negri_do_plynu\\Form1.cs",
@@ -98,7 +108,11 @@
               "ToolTip": "C:\\Users\\honzi\\OneDrive - SPSUL\\Dokumenty\\GitHub\\kikin\\negri_do_plynu\\Form1.cs [N\u00E1vrh]",
               "RelativeToolTip": "negri_do_plynu\\Form1.cs [N\u00E1vrh]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< Updated upstream
               "WhenOpened": "2025-10-06T06:37:35.12Z",
+=======
+              "WhenOpened": "2025-10-06T06:39:36.303Z",
+>>>>>>> Stashed changes
               "EditorCaption": " [N\u00E1vrh]"
             }
           ]
