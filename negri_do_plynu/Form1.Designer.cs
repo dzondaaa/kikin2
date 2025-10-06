@@ -34,6 +34,7 @@
             checkBox1 = new CheckBox();
             radioButton1 = new RadioButton();
             pictureBox2 = new PictureBox();
+            label1 = new Label();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             SuspendLayout();
@@ -52,7 +53,7 @@
             // 
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
             pictureBox1.Location = new Point(297, 553);
-            pictureBox1.Margin = new Padding(6, 6, 6, 6);
+            pictureBox1.Margin = new Padding(6);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(1554, 489);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
@@ -63,7 +64,7 @@
             // 
             checkBox1.AutoSize = true;
             checkBox1.Location = new Point(531, 75);
-            checkBox1.Margin = new Padding(6, 6, 6, 6);
+            checkBox1.Margin = new Padding(6);
             checkBox1.Name = "checkBox1";
             checkBox1.Size = new Size(159, 36);
             checkBox1.TabIndex = 2;
@@ -74,7 +75,7 @@
             // 
             radioButton1.AutoSize = true;
             radioButton1.Location = new Point(888, 52);
-            radioButton1.Margin = new Padding(6, 6, 6, 6);
+            radioButton1.Margin = new Padding(6);
             radioButton1.Name = "radioButton1";
             radioButton1.Size = new Size(184, 36);
             radioButton1.TabIndex = 3;
@@ -92,11 +93,22 @@
             pictureBox2.TabIndex = 4;
             pictureBox2.TabStop = false;
             // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Location = new Point(215, 38);
+            label1.Name = "label1";
+            label1.Size = new Size(195, 32);
+            label1.TabIndex = 5;
+            label1.Text = "Přišukaná Monča";
+            label1.Click += label1_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(13F, 32F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1924, 1060);
+            Controls.Add(label1);
             Controls.Add(pictureBox2);
             Controls.Add(radioButton1);
             Controls.Add(checkBox1);
@@ -118,5 +130,6 @@
         private CheckBox checkBox1;
         private RadioButton radioButton1;
         private PictureBox pictureBox2;
+        private Label label1;
     }
 }
