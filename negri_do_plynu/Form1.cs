@@ -6,5 +6,10 @@ namespace negri_do_plynu
         {
             InitializeComponent();
         }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
