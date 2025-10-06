@@ -14,11 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("negri_do_plynu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< Updated upstream
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1171410d102659153014dfe373638371836ed797")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+317f01367100335709f2a607d4262f8dd608c568")]
->>>>>>> Stashed changes
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+531358e95d2ae64b167ee3c7af51acf2002a1fa5")]
 [assembly: System.Reflection.AssemblyProductAttribute("negri_do_plynu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("negri_do_plynu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
